@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/guftugu-chatApp/static/css/main.18d4da1f.css",
+    "main.js": "/guftugu-chatApp/static/js/main.16675c15.js",
+    "index.html": "/guftugu-chatApp/index.html",
+    "main.18d4da1f.css.map": "/guftugu-chatApp/static/css/main.18d4da1f.css.map",
+    "main.16675c15.js.map": "/guftugu-chatApp/static/js/main.16675c15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18d4da1f.css",
+    "static/js/main.16675c15.js"
+  ]
+}
